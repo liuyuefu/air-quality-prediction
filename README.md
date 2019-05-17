@@ -16,5 +16,4 @@ May 3th: Version 1.0
 
 May 10th: Version 2.0
 
-Report:
-Report can be edited here: https://www.overleaf.com/1626912489mvktfvqwxryf
+May 10th: Report
